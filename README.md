@@ -22,9 +22,11 @@ An AI-powered web application that converts voice notes into text and generates 
 
 ## Use Case
 Designed for productivity use cases such as meeting notes, voice reminders, and personal task tracking.
+
 ## Demo Screenshot
 
-![AI Voice Note Summarizer](screenshot.png)
+![AI Voice Note Summarizer](Screenshot 2026-02-03 161801.png)
+
 
 
 ## Status
