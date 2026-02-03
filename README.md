@@ -25,7 +25,7 @@ Designed for productivity use cases such as meeting notes, voice reminders, and 
 
 ## Demo Screenshot
 
-![AI Voice Note Summarizer](screenshot.png)
+![AI Voice Note Summarizer](Screenshot 2026-02-03 161801.png)
 
 
 ## Status
